@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.tilte('My Parent's New Healthy Diner) 
+streamlit.tilte('My Parents New Healthy Diner') 
